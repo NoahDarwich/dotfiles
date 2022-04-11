@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Noah95darwish@gmail.com
+	name = NoahDarwich
